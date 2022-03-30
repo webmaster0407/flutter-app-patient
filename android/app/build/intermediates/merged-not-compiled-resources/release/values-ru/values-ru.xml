@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="acc_label_card_number">Номер карты</string>
+    <string name="acc_label_card_number_node">%s, номер карты</string>
+    <string name="acc_label_cvc_node">%s, код CVV/CVC</string>
+    <string name="acc_label_expiry_date">Окончание срока действия</string>
+    <string name="acc_label_expiry_date_node">%s, дата истечения срока действия</string>
+    <string name="acc_label_zip">Почтовый индекс</string>
+    <string name="acc_label_zip_short">Почтовый индекс</string>
+    <string name="add_new_payment_method">Добавление нового метода оплаты</string>
+    <string name="added">Добавлено: %s</string>
+    <string name="address_city_required">Введите город</string>
+    <string name="address_country_invalid">Недопустимое название страны.</string>
+    <string name="address_county_required">Введите страну</string>
+    <string name="address_label_address">Адрес</string>
+    <string name="address_label_address_line1">Адрес (строка 1)</string>
+    <string name="address_label_address_line1_optional">Адрес (строка 1) (необязательно)</string>
+    <string name="address_label_address_line2">Адрес (строка 2)</string>
+    <string name="address_label_address_line2_optional">Адрес (строка 2) (необязательно)</string>
+    <string name="address_label_address_optional">Адрес (необязательно)</string>
+    <string name="address_label_ae_emirate">Эмират</string>
+    <string name="address_label_apt_optional">Кв. (необязательно)</string>
+    <string name="address_label_au_suburb_or_city">Населенный пункт</string>
+    <string name="address_label_bb_jm_parish">Приход</string>
+    <string name="address_label_cedex">Cedex</string>
+    <string name="address_label_city">Город</string>
+    <string name="address_label_city_optional">Город (необязательно)</string>
+    <string name="address_label_country">Страна</string>
+    <string name="address_label_county">Графство</string>
+    <string name="address_label_county_optional">Графство (необязательно)</string>
+    <string name="address_label_department">Департамент</string>
+    <string name="address_label_district">Район</string>
+    <string name="address_label_hk_area">Область</string>
+    <string name="address_label_ie_eircode">Почтовый индекс (Eircode)</string>
+    <string name="address_label_ie_townland">Таунленд</string>
+    <string name="address_label_in_pin">Почтовый индекс</string>
+    <string name="address_label_island">Остров</string>
+    <string name="address_label_jp_prefecture">Префектура</string>
+    <string name="address_label_kr_do_si">Do Si</string>
+    <string name="address_label_name">Имя</string>
+    <string name="address_label_neighborhood">Микрорайон</string>
+    <string name="address_label_oblast">Область</string>
+    <string name="address_label_phone_number">Номер телефона</string>
+    <string name="address_label_phone_number_optional">Номер телефона (необязательно)</string>
+    <string name="address_label_post_town">Почтовое отделение или город</string>
+    <string name="address_label_postal_code">Почтовый индекс</string>
+    <string name="address_label_postal_code_optional">Почтовый индекс (необязательно)</string>
+    <string name="address_label_postcode">Почтовый индекс</string>
+    <string name="address_label_postcode_optional">Почтовый индекс (необязательно)</string>
+    <string name="address_label_province">Провинция</string>
+    <string name="address_label_province_optional">Провинция (необязательно)</string>
+    <string name="address_label_region_generic">Штат / провинция / регион</string>
+    <string name="address_label_region_generic_optional">Штат / провинция / регион (необязательно)</string>
+    <string name="address_label_state">Штат</string>
+    <string name="address_label_state_optional">Штат (необязательно)</string>
+    <string name="address_label_suburb">Пригород</string>
+    <string name="address_label_village_township">Деревня или поселок</string>
+    <string name="address_label_zip_code">Почтовый индекс</string>
+    <string name="address_label_zip_code_optional">Почтовый индекс (необязательно)</string>
+    <string name="address_label_zip_postal_code">Почтовый индекс</string>
+    <string name="address_label_zip_postal_code_optional">Почтовый индекс (необязательно)</string>
+    <string name="address_name_required">Введите свое имя</string>
+    <string name="address_phone_number_required">Введите свой номер телефона</string>
+    <string name="address_postal_code_invalid">Введенный почтовый индекс недействителен.</string>
+    <string name="address_postcode_invalid">Введенный почтовый индекс неверен</string>
+    <string name="address_province_required">Введите название своей провинции</string>
+    <string name="address_region_generic_required">Введите штат / провинцию / регион</string>
+    <string name="address_required">Введите адрес</string>
+    <string name="address_state_required">Введите штат</string>
+    <string name="address_zip_invalid">Введенный почтовый индекс неверен.</string>
+    <string name="address_zip_postal_invalid">Введенный почтовый индекс неверен</string>
+    <string name="bank_account_ending_in">Удалить банковский счет, оканчивающийся на %s</string>
+    <string name="becs_mandate_acceptance">\n    Предоставляя данные банковского счета и подтверждая платеж, вы принимаете данный запрос прямого списания средств и сервисное\n    соглашение на запрос прямого списания средств, а также уполномочиваете компанию\n    Stripe Payments Australia Pty Ltd, ACN 160 180 343, идентификационный номер пользователя службы прямого списания средств: 507156,\n    (“Stripe”) на списание средств с вашего счета через систему BECS от\n    имени %1$s (\"Продавец\") на суммы, отдельно указанные вам Продавцом.\n    Вы подтверждаете, что являетесь владельцем указанного ниже счета или\n    его уполномоченным представителем\n    </string>
+    <string name="becs_widget_account_number">Номер счета</string>
+    <string name="becs_widget_account_number_incomplete">Номер счета введен не полностью.</string>
+    <string name="becs_widget_account_number_required">Необходимо указать ваш номер счета.</string>
+    <string name="becs_widget_bsb">BSB</string>
+    <string name="becs_widget_bsb_incomplete">Введенный код BSB неполон.</string>
+    <string name="becs_widget_bsb_invalid">Введенный код BSB неверен.</string>
+    <string name="becs_widget_email">Адрес эл. почты</string>
+    <string name="becs_widget_email_invalid">Неверный адрес эл. почты.</string>
+    <string name="becs_widget_email_required">Необходимо указать ваш адрес эл. почты.</string>
+    <string name="becs_widget_name">Имя</string>
+    <string name="becs_widget_name_required">Необходимо указать ваше имя.</string>
+    <string name="billing_details">Адрес для выставления счета</string>
+    <string name="blank_and_required">Введите данные в это поле.</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="cancel">Отмена</string>
+    <string name="card_ending_in">%1$s, оканч. на %2$s</string>
+    <string name="change">Изменить</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string name="close">Закрыть</string>
+    <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Доступность сервисов Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Ссылка скопирована в буфер обмена."</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
+    <string name="delete_payment_method">Удалить способ оплаты?</string>
+    <string name="delete_payment_method_prompt_title">Удалить метод оплаты?</string>
+    <string name="done">Готово</string>
+    <string name="edit">Редактировать</string>
+    <string name="email">Эл. почта</string>
+    <string name="email_is_invalid">Недействительный адрес эл. почты.</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="expiry_date_hint">ММ/ГГ</string>
+    <string name="expiry_label_short">Истечение срока действия</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копировать ссылку"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Открыть в браузере"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Отправить ссылку"</string>
+    <string name="fcm_fallback_notification_channel_label">Другое</string>
+    <string name="fpx_bank_offline">%s - не в сети</string>
+    <string name="iban_incomplete">Введенный код IBAN неполон.</string>
+    <string name="iban_invalid">Введенный код IBAN содержит ошибку.</string>
+    <string name="iban_invalid_country">Введенный код IBAN ошибочен, \"%s\" – неверный код страны.</string>
+    <string name="iban_invalid_start">Код IBAN должен начинаться с двухбуквенного кода страны.</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
+    <string name="incomplete_expiry_date">Дата истечения срока действия карты введена не полностью.</string>
+    <string msgid="2486394087603402002" name="indeterminate">"Флажок не установлен и не снят"</string>
+    <string name="invalid_card_number">Номер карты недействителен.</string>
+    <string name="invalid_cvc">Код CVV/CVC карты недействителен.</string>
+    <string name="invalid_expiry_month">Недопустимый месяц окончания действия карты.</string>
+    <string name="invalid_expiry_year">Недопустимый год окончания действия карты.</string>
+    <string name="invalid_shipping_information">Ошибочный адрес доставки</string>
+    <string name="invalid_zip">Введенный почтовый индекс неполон.</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к выбору дня</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы перейти к выбору года</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
+    <string msgid="875452955155264703" name="off">"Выключено"</string>
+    <string msgid="8655164131929253426" name="on">"Включено"</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="payment_method_add_new_card">Добавить новую карту...</string>
+    <string name="payment_method_add_new_fpx">Выберите банковский счет (FPX)…</string>
+    <string name="price_free">Бесплатно</string>
+    <string name="remove">Удалить</string>
+    <string name="removed">Удалено: %s</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="secure_checkout">Безопасное оформление и оплата заказа</string>
+    <string msgid="6043586758067023" name="selected">"Выбрано"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stripe_3ds2_bzv_issuer_image_description">Логотип эмитента</string>
+    <string name="stripe_3ds2_bzv_payment_system_image_description">Логотип платежной системы</string>
+    <string name="stripe_3ds2_czv_whitelist_no_label">Нет</string>
+    <string name="stripe_3ds2_czv_whitelist_yes_label">Да</string>
+    <string name="stripe_3ds2_hzv_cancel_label">Отмена</string>
+    <string name="stripe_3ds2_hzv_header_label">Безопасное оформление платежа</string>
+    <string name="stripe_3ds2_processing">Идет обработка\u2026</string>
+    <string name="stripe_failure_connection_error">Возникли проблемы с подключением к системе обработки платежей. Проверьте подключение к Интернету и попробуйте еще раз.</string>
+    <string name="stripe_failure_reason_authentication">Не удалось верифицировать метод оплаты. Выберите другой метод оплаты и повторите попытку.</string>
+    <string name="stripe_failure_reason_timed_out">Лимит времени для аутентификации метода оплаты истек. Попробуйте еще раз</string>
+    <string name="stripe_google_pay_error_internal">Произошла внутренняя ошибка.</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Добавить</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Данные платежной карты</string>
+    <string name="stripe_paymentsheet_add_payment_method_country_or_region">Страна или регион</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Укажите платежные данные</string>
+    <string name="stripe_paymentsheet_back">Назад</string>
+    <string name="stripe_paymentsheet_close">Закрыть</string>
+    <string name="stripe_paymentsheet_continue_button_label">Продолжить</string>
+    <string name="stripe_paymentsheet_eps_bank">Банк EPS</string>
+    <string name="stripe_paymentsheet_expiration_date_hint">ММ / ГГ</string>
+    <string name="stripe_paymentsheet_form_label_optional">%s (необязательно)</string>
+    <string name="stripe_paymentsheet_ideal_bank">Банк в системе iDEAL</string>
+    <string name="stripe_paymentsheet_or_pay_using">Или оплатить с помощью</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Или оплатить картой</string>
+    <string name="stripe_paymentsheet_p24_bank">Банк Przelewy24</string>
+    <string name="stripe_paymentsheet_pay_button_amount">Оплатить %s</string>
+    <string name="stripe_paymentsheet_pay_button_label">Оплатить</string>
+    <string name="stripe_paymentsheet_payment_method_afterpay_clearpay">Afterpay</string>
+    <string name="stripe_paymentsheet_payment_method_card">Карта</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">Списание средств SEPA</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Идет обработка...</string>
+    <string name="stripe_paymentsheet_remove_pm">Удалить %s</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Сохранить данные для будущих платежей</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">Сохранить данные этой карты для будущих платежей %s</string>
+    <string name="stripe_paymentsheet_select_payment_method">Выберите способ оплаты</string>
+    <string name="stripe_paymentsheet_sepa_mandate">Указав свои платежные данные и подтвердив платеж, вы уполномочиваете (A) %s и Stripe, нашего поставщика платежных услуг, на отправку вашему банку инструкций на списание средств с вашего счета и (B) ваш банк на списание средств с вашего счета согласно данным инструкциям. Вы имеете право на возврат средств от вашего банка согласно положениям и условиям Вашего соглашения с банком. Подать заявку на возврат средств следует в течение 8 недель с даты списания средств с вашего счета. Ваши права объясняются в выписке, которую вы можете получить в своем банке. Вы даете согласие на получение уведомлений о будущих дебетованиях в срок до 2 дней до их поступления.</string>
+    <string name="stripe_paymentsheet_setup_button_label">Настроить</string>
+    <string name="stripe_paymentsheet_total_amount">Всего: %s</string>
+    <string name="stripe_verify_your_payment">Подтвердите платеж</string>
+    <string msgid="1672349317127674378" name="tab">"Вкладка"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Процентов: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="title_add_a_card">Добавить карту</string>
+    <string name="title_add_an_address">Задать адрес</string>
+    <string name="title_bank_account">Банковский счет</string>
+    <string name="title_payment_method">Метод оплаты</string>
+    <string name="title_select_shipping_method">Выберите метод доставки</string>
+    <string name="wallet_buy_button_place_holder">Купить через Google</string>
+</resources>

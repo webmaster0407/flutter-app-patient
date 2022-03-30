@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d új értesítés</item>
+    <item quantity="other">%d új értesítés</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Fel"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Az összes megtekintése"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Válasszon alkalmazást"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BE"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="acc_label_card_number">Kártyaszám</string>
+    <string name="acc_label_card_number_node">%s, kártyaszám</string>
+    <string name="acc_label_cvc_node">%s, CVC-kód</string>
+    <string name="acc_label_expiry_date">Lejárati dátum</string>
+    <string name="acc_label_expiry_date_node">%s, lejárati dátum</string>
+    <string name="acc_label_zip">Irányítószám</string>
+    <string name="acc_label_zip_short">Irányítószám</string>
+    <string name="add_new_payment_method">Új fizetési mód hozzáadása</string>
+    <string name="added">%s hozzáadva</string>
+    <string name="address_city_required">Írja be a várost.</string>
+    <string name="address_country_invalid">Az országnév érvénytelen.</string>
+    <string name="address_county_required">Írja be az országot.</string>
+    <string name="address_label_address">Cím</string>
+    <string name="address_label_address_line1">Cím 1. sora</string>
+    <string name="address_label_address_line1_optional">1. címsor (nem kötelező)</string>
+    <string name="address_label_address_line2">2. címsor</string>
+    <string name="address_label_address_line2_optional">Cím 2. sora (nem kötelező)</string>
+    <string name="address_label_address_optional">Cím (nem kötelező)</string>
+    <string name="address_label_ae_emirate">Emirátus</string>
+    <string name="address_label_apt_optional">Házszám (nem kötelező)</string>
+    <string name="address_label_au_suburb_or_city">Külváros vagy város</string>
+    <string name="address_label_bb_jm_parish">Egyházközség</string>
+    <string name="address_label_cedex">Cedex</string>
+    <string name="address_label_city">Város</string>
+    <string name="address_label_city_optional">Város (nem kötelező)</string>
+    <string name="address_label_country">Ország</string>
+    <string name="address_label_county">Ország</string>
+    <string name="address_label_county_optional">Ország (nem kötelező)</string>
+    <string name="address_label_department">Megye</string>
+    <string name="address_label_district">Kerület</string>
+    <string name="address_label_hk_area">Terület</string>
+    <string name="address_label_ie_eircode">Irányítószám</string>
+    <string name="address_label_ie_townland">Major</string>
+    <string name="address_label_in_pin">Irányítószám</string>
+    <string name="address_label_island">Sziget</string>
+    <string name="address_label_jp_prefecture">Prefektúra</string>
+    <string name="address_label_kr_do_si">Do Si</string>
+    <string name="address_label_name">Név</string>
+    <string name="address_label_neighborhood">Körzet</string>
+    <string name="address_label_oblast">Terület</string>
+    <string name="address_label_phone_number">Telefonszám</string>
+    <string name="address_label_phone_number_optional">Telefonszám (nem kötelező)</string>
+    <string name="address_label_post_town">Posta vagy kisváros</string>
+    <string name="address_label_postal_code">Irányítószám</string>
+    <string name="address_label_postal_code_optional">Irányítószám (nem kötelező)</string>
+    <string name="address_label_postcode">Irányítószám</string>
+    <string name="address_label_postcode_optional">Irányítószám (nem kötelező)</string>
+    <string name="address_label_province">Tartomány</string>
+    <string name="address_label_province_optional">Tartomány (nem kötelező)</string>
+    <string name="address_label_region_generic">Állam/tartomány/régió</string>
+    <string name="address_label_region_generic_optional">Állam/tartomány/régió (nem kötelező)</string>
+    <string name="address_label_state">Állam</string>
+    <string name="address_label_state_optional">Állam (nem kötelező)</string>
+    <string name="address_label_suburb">Külváros</string>
+    <string name="address_label_village_township">Falu vagy község</string>
+    <string name="address_label_zip_code">Irányítószám</string>
+    <string name="address_label_zip_code_optional">Irányítószám (nem kötelező)</string>
+    <string name="address_label_zip_postal_code">Irányítószám</string>
+    <string name="address_label_zip_postal_code_optional">Irányítószám (nem kötelező)</string>
+    <string name="address_name_required">Írja be a nevét.</string>
+    <string name="address_phone_number_required">Adja meg a telefonszámát.</string>
+    <string name="address_postal_code_invalid">Az irányítószám érvénytelen.</string>
+    <string name="address_postcode_invalid">Irányítószáma érvénytelen.</string>
+    <string name="address_province_required">Adja meg a tartományt.</string>
+    <string name="address_region_generic_required">Írja be az államot/tartományt/régiót.</string>
+    <string name="address_required">Adja meg címét.</string>
+    <string name="address_state_required">Írja be az államot.</string>
+    <string name="address_zip_invalid">Irányítószáma érvénytelen.</string>
+    <string name="address_zip_postal_invalid">Irányítószáma érvénytelen.</string>
+    <string name="bank_account_ending_in">%s számra végződő bankszámla eltávolítása</string>
+    <string name="becs_mandate_acceptance">\n    Bankszámlaadatainak megadásával és a kifizetés jóváhagyásával Ön elfogadja ezt a\n   Beszedési igényt és a Beszedési igény szolgáltatást, és felhatalmazza a \n    Stripe Payments Australia Pty Ltd ACN 160 180 343 beszedési szolgáltatót, amelynek azonosítója 507156\n    (“Stripe”), hogy megterhelje számláját a Bulk Electronic Clearing System (BECS) rendszeren keresztül \n    a(z) %1$s (a \"Kereskedő\") nevében minden olyan összeg vonatkozásában, amelyet a \n    Kereskedő külön közölt Önnel. Ön tanúsítja, hogy vagy számlatulajdonosa vagy egy aláírási meghatalmazottja\n    a fent említett számlának.\n    </string>
+    <string name="becs_widget_account_number">Számlaszám</string>
+    <string name="becs_widget_account_number_incomplete">A számlaszáma hiányos.</string>
+    <string name="becs_widget_account_number_required">Számlaszámának megadása kötelező.</string>
+    <string name="becs_widget_bsb">BSB</string>
+    <string name="becs_widget_bsb_incomplete">A beírt BSB-szám hiányos.</string>
+    <string name="becs_widget_bsb_invalid">A beírt BSB-szám érvénytelen.</string>
+    <string name="becs_widget_email">E-mail-cím</string>
+    <string name="becs_widget_email_invalid">Az e-mail-címe érvénytelen.</string>
+    <string name="becs_widget_email_required">E-mail-címének megadása kötelező.</string>
+    <string name="becs_widget_name">Név</string>
+    <string name="becs_widget_name_required">Nevének megadása kötelező.</string>
+    <string name="billing_details">Számlázási cím</string>
+    <string name="blank_and_required">Ez a mező nem lehet üres.</string>
+    <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
+    <string name="cancel">Mégse</string>
+    <string name="card_ending_in">%1$s végződése %2$s</string>
+    <string name="change">Módosítás</string>
+    <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
+    <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
+    <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
+    <string name="close">Bezárás</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigációs menü bezárása"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Munkalap bezárása"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Engedélyezés"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-szolgáltatások engedélyezése"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Telepítés"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play-szolgáltatások elérhetősége"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"A Google Play-szolgáltatások frissítése"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link vágólapra másolva"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Érvénytelen adat"</string>
+    <string name="delete_payment_method">Fizetési mód törlése</string>
+    <string name="delete_payment_method_prompt_title">Törli a fizetési módot?</string>
+    <string name="done">Kész</string>
+    <string name="edit">Szerkesztés</string>
+    <string name="email">E-mail</string>
+    <string name="email_is_invalid">Érvénytelen e-mail-cím.</string>
+    <string name="error_icon_content_description">Hiba</string>
+    <string name="expiry_date_hint">HH/ÉÉ</string>
+    <string name="expiry_label_short">Lejárat</string>
+    <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Link másolása"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Megnyitás böngészőben"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Link megosztása"</string>
+    <string name="fcm_fallback_notification_channel_label">Egyéb</string>
+    <string name="fpx_bank_offline">%s - offline</string>
+    <string name="iban_incomplete">A beírt IBAN-szám hiányos.</string>
+    <string name="iban_invalid">A beírt IBAN-szám érvénytelen.</string>
+    <string name="iban_invalid_country">A beírt IBAN-szám érvénytelen, a(z) „%s” nem támogatott országkód.</string>
+    <string name="iban_invalid_start">Az IBAN-számának egy kétbetűs országkóddal kell kezdődnie.</string>
+    <string name="icon_content_description">Párbeszédpanel ikonja</string>
+    <string msgid="6827826412747255547" name="in_progress">"Folyamatban"</string>
+    <string name="incomplete_expiry_date">A kártya lejárati dátuma hiányos.</string>
+    <string msgid="2486394087603402002" name="indeterminate">"Sem bejelöléssel, sem bejelölés nélkül"</string>
+    <string name="invalid_card_number">Kártyaszáma érvénytelen.</string>
+    <string name="invalid_cvc">A kártya biztonsági kódja érvénytelen.</string>
+    <string name="invalid_expiry_month">Kártyájának lejárati hónapja érvénytelen.</string>
+    <string name="invalid_expiry_year">Kártyájának lejárati éve érvénytelen.</string>
+    <string name="invalid_shipping_information">Érvénytelen szállítási cím</string>
+    <string name="invalid_zip">Az irányítószám hiányos.</string>
+    <string name="item_view_role_description">Lap</string>
+    <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
+    <string name="material_hour_selection">Óra kiválasztása</string>
+    <string name="material_hour_suffix">%1$s óra</string>
+    <string name="material_minute_selection">Perc kiválasztása</string>
+    <string name="material_minute_suffix">%1$s perc</string>
+    <string name="material_timepicker_am">de.</string>
+    <string name="material_timepicker_clock_mode_description">Időbevitelhez váltson óramódba.</string>
+    <string name="material_timepicker_hour">Óra</string>
+    <string name="material_timepicker_minute">Perc</string>
+    <string name="material_timepicker_pm">du.</string>
+    <string name="material_timepicker_select_time">Időpont kiválasztása</string>
+    <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
+    <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
+    <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Több mint %1$d új értesítés</string>
+    <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
+    <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
+    <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
+    <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Napok oszlopa: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Érvénytelen formátum.</string>
+    <string name="mtrl_picker_invalid_format_example">Példa: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Használja ezt: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Érvénytelen tartomány.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ugrás ehhez az évhez: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Tartományon kívül: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Kezdés dátuma – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Befejezés dátuma</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Válasszon dátumtartományt</string>
+    <string name="mtrl_picker_range_header_unselected">Kezdés dátuma – Befejezés dátuma</string>
+    <string name="mtrl_picker_save">Mentés</string>
+    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Befejezés dátuma</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Kezdés dátuma</string>
+    <string name="mtrl_picker_text_input_day_abbr">N</string>
+    <string name="mtrl_picker_text_input_month_abbr">H</string>
+    <string name="mtrl_picker_text_input_year_abbr">É</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Váltás naptárbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Koppintson a nap kiválasztásához</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Koppintson az év kiválasztásához</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigációs menü"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nincs kijelölve"</string>
+    <string msgid="875452955155264703" name="off">"Ki"</string>
+    <string msgid="8655164131929253426" name="on">"Be"</string>
+    <string name="password_toggle_content_description">Jelszó megjelenítése</string>
+    <string name="payment_method_add_new_card">Új kártya hozzáadása...</string>
+    <string name="payment_method_add_new_fpx">Bankszámlaválasztás (FPX)...</string>
+    <string name="price_free">Ingyenes</string>
+    <string name="remove">Eltávolítás</string>
+    <string name="removed">%s eltávolítva</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Keresés"</string>
+    <string name="secure_checkout">Biztonságos kifizetés</string>
+    <string msgid="6043586758067023" name="selected">"Kijelölve"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stripe_failure_connection_error">Hibákat tapasztalunk a fizetésszolgáltatónkhoz való kapcsolódáskor. Ellenőrizze az internetkapcsolatát, és próbálja meg újból.</string>
+    <string name="stripe_failure_reason_authentication">Nem tudjuk hitelesíteni a fizetési módját. Kérjük, válasszon másik fizetési módot, és próbálkozzon újból.</string>
+    <string name="stripe_failure_reason_timed_out">Fizetési módjának hitelesítésénél időtúllépés történt, próbálja újra.</string>
+    <string name="stripe_google_pay_error_internal">Belső hiba történt.</string>
+    <string name="stripe_paymentsheet_add_payment_method_button_label">+ Hozzáadás</string>
+    <string name="stripe_paymentsheet_add_payment_method_card_information">Kártyaadatok</string>
+    <string name="stripe_paymentsheet_add_payment_method_country_or_region">Ország vagy régió</string>
+    <string name="stripe_paymentsheet_add_payment_method_title">Fizetési adatok megadása</string>
+    <string name="stripe_paymentsheet_back">Vissza</string>
+    <string name="stripe_paymentsheet_close">Bezárás</string>
+    <string name="stripe_paymentsheet_continue_button_label">Folytatás</string>
+    <string name="stripe_paymentsheet_eps_bank">EPS Bank</string>
+    <string name="stripe_paymentsheet_expiration_date_hint">HH / ÉÉ</string>
+    <string name="stripe_paymentsheet_form_label_optional">%s (nem kötelező)</string>
+    <string name="stripe_paymentsheet_ideal_bank">iDEAL bank</string>
+    <string name="stripe_paymentsheet_or_pay_using">Vagy fizetés a következővel:</string>
+    <string name="stripe_paymentsheet_or_pay_with_card">Vagy fizetés kártyával</string>
+    <string name="stripe_paymentsheet_p24_bank">Przelewy24 Bank</string>
+    <string name="stripe_paymentsheet_pay_button_amount">%s kifizetése</string>
+    <string name="stripe_paymentsheet_pay_button_label">Fizetés:</string>
+    <string name="stripe_paymentsheet_payment_method_afterpay_clearpay">Afterpay</string>
+    <string name="stripe_paymentsheet_payment_method_card">Kártya</string>
+    <string name="stripe_paymentsheet_payment_method_sepa_debit">SEPA beszedés</string>
+    <string name="stripe_paymentsheet_primary_button_processing">Feldolgozás...</string>
+    <string name="stripe_paymentsheet_remove_pm">%s eltávolítása</string>
+    <string name="stripe_paymentsheet_save_for_future_payments">Mentés a későbbi fizetésekhez</string>
+    <string name="stripe_paymentsheet_save_this_card_with_merchant_name">A kártya mentése a(z) %s részére történő fizetésekhez</string>
+    <string name="stripe_paymentsheet_select_payment_method">Fizetési mód kiválasztása</string>
+    <string name="stripe_paymentsheet_sepa_mandate">Fizetési adatainak megadásával és a fizetés megerősítésével Ön felhatalmazza (A) a(z) %s céget és a Stripe-ot, fizetési szolgáltatónkat, hogy utasításokat küldjön a bankjának, hogy megterhelje a számláját, és (B) bankját, hogy az utasításoknak megfelelően megterhelje a számláját. A jogai részeként Ön jogosult a bankjától a velük kötött megállapodás feltételei szerinti visszatérítésre. A visszatérítést a számla megterhelésének napjától számított 8 héten belül kell igényelni. Jogait egy, a bankjától beszerezhető nyilatkozat tartalmazza. Beleegyezik abba, hogy a jövőbeni terhelésekről értesítést kap, legfeljebb 2 nappal azok bekövetkezése előtt.</string>
+    <string name="stripe_paymentsheet_setup_button_label">Beállítás</string>
+    <string name="stripe_paymentsheet_total_amount">Összesen: %s</string>
+    <string name="stripe_verify_your_payment">Igazolja fizetését</string>
+    <string msgid="1672349317127674378" name="tab">"Lap"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> százalék."</string>
+    <string name="title_add_a_card">Kártya hozzáadása</string>
+    <string name="title_add_an_address">Cím beállítása</string>
+    <string name="title_bank_account">Bankszámla</string>
+    <string name="title_payment_method">Fizetési mód</string>
+    <string name="title_select_shipping_method">Szállítási mód választása</string>
+    <string name="wallet_buy_button_place_holder">Vásárlás a Google-lal</string>
+</resources>
